@@ -1,5 +1,7 @@
 # Lip Reading Dataset for Deaf👄📚
 
+This is a sample dataset from my own collection. If you need further information, you can contact me at my email address. The project is available at this GitHub link https://github.com/shrvya-shetty/Deaf-Lip-Sync
+
 I am excited to share this comprehensive lip-reading dataset aimed at aiding the development of technologies and tools for the deaf and hard-of-hearing communities.💥 I have collected my own dataset, which includes a collection of videos converted into image frames 📸 and corresponding annotations 📑 to facilitate research and development in lip-reading and speech recognition.
 
 ## Dataset Download📥
